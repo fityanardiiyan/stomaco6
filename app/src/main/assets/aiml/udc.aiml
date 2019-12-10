@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>creator</pattern>
+        <template>RockyRoad</template>
+    </category>
+    <category>
+            <pattern>11</pattern>
+            <template>fityan ardi</template>
+        </category>
+        <category>
+                <pattern>12</pattern>
+                <that>fityan ardi</that>
+                <template>fityan</template>
+            </category>
+  <category>
+    <pattern>*</pattern>
+    <template>Maaf saya tidak mengerti, Silahkan Masukkan ulang Keyword.</template>
+  </category>
+  
+</aiml>

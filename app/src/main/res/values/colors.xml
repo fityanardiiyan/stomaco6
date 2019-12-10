@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="greyBackground">#F3F3F3</color>
+    <color name="textColorGreen">#1E5631</color>
+    <color name="titleGreen">#D0FFD1</color>
+    <color name="titleWhite">#E5F1E5</color>
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+    <color name="bottomnav">#C1E5EB</color>
+
+
+</resources>

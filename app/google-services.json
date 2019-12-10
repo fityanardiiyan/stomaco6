@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036370844281",
+    "firebase_url": "https://stomaco-593d3.firebaseio.com",
+    "project_id": "stomaco-593d3",
+    "storage_bucket": "stomaco-593d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036370844281:android:04fc941639c4dfc4d312a8",
+        "android_client_info": {
+          "package_name": "android.example.stomaco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036370844281-n8sul08p2iij7kplp59v4deorv8gmqqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.stomaco",
+            "certificate_hash": "dc54067b57c4f5ae188f58ee4c1750a2c4ee8840"
+          }
+        },
+        {
+          "client_id": "1036370844281-fn83p9n58j69uhe163hihdtngvq0suhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnX1u-kg39BHHToSS3yd8--_0n2x8VtKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036370844281-fn83p9n58j69uhe163hihdtngvq0suhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

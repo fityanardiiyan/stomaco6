@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StomaCo</string>
+    <string name="chatbot">Chatbot</string>
+    <string name="daftar_obat">Daftar Penyakit</string>
+    <string name="artikel">Artikel</string>
+    <string name="biodata">Biodata</string>
+    <string name="health_record">Health Record</string>
+    <string name="informasi_obat">All your needs</string>
+    <string name="biodata_anda">Biodata Anda</string>
+    <string name="stomaco">StomaCo</string>
+    <string name="stomach_consultant">Stomach Consultant</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="app_description">StomaCo adalah aplikasi yang dapat membantu Anda untuk mengenali lambung Anda lebih dekat.</string>
+    <string name="version">versi 0.0.4</string>
+    <string name="about_us">About us</string>
+    <string name="rocky_road_title">Dibuat oleh :  Kelompok Rocky Road</string>
+    <string name="artikel_subtitle">Semua yang perlu Anda ketahui tentang lambung Anda.</string>
+    <string name="artikel1">Apabila kamu mengalami beberapa gejala, seperti mual dan muntah, serta nyeri pada bagian perut, mungkin kamu mengidap gangguan lambung.</string>
+    <string name="stomachartikel1">Jenis-jenis gangguan lambung</string>
+    <string name="stomachartikel2">Pengertian penyakit asam lambung</string>
+    <string name="link">Click to see more</string>
+    <string name="artikel2">Penyakit asam lambung merupakan penyakit umum yang disebabkan oleh naiknya asam lambung menju eofagus atau kerongkongan pada saluran pencernaan yang menghubungkan mulut dan lambung./>
+    </string>
+    <string name="stomachartikel3">Nyeri Lambung Tandai Munculnya Ulkus</string>
+    <string name="artikel3">Pernah merasakan nyeri dibagian ulu hati? Awas, bisa jadi itu tanda dari tukak lambung yang gejalanya berupa sakit seperti membakar di bagian tengah perut.</string>
+    <string name="stomachartikel4">Pola Makan Sehat untuk Mencegah Asam Lambung Kambuh</string>
+    <string name="artikel4">Rendahnya asam lambung pada tubuh biasanya disebabkan oleh tingginya kadar gula yang dikonsumsi.</string>
+    <string name="profile">Sir David</string>
+    <string name="nama">Sir David</string>
+    <string name="tanggal">1 Januari 1970</string>
+    <string name="kelamin">Pria</string>
+    <string name="alamat">Jalan T</string>
+    <string name="riwayat">Maag</string>
+    <string name="alergi">Seafood \nLemak \nKacang \nJengkol \nHewan berkuku \nBaterai ABC</string>
+    <string name="pertanyaan_1">Pertanyaan 1</string>
+    <string name="pertanyaan_2">Pertanyaan 2</string>
+    <string name="pertanyaan_3">Pertanyaan 3</string>
+    <string name="konsultasi_text">Talk to your consultant</string>
+
+</resources>

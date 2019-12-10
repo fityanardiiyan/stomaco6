@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Konsultasi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Card tampilan isi teksnya Pilih gejala-gejala yang kamu rasakan" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onCheckboxClicked"
+            android:text="Nyeri Pada Daerah Lambung" />
+
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rasa Penuh Di Daerah Lambung"
+            android:onClick="onCheckboxClicked"/>
+
+        <CheckBox
+            android:id="@+id/checkBox3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kembung Pada Lambung"
+            android:onClick="onCheckboxClicked"/>
+
+        <CheckBox
+            android:id="@+id/checkBox4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nafsu Makan Berkurang"
+            android:onClick="onCheckboxClicked"/>
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mual atau Muntah" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nyeri Pada Perut" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nyeri Pada Dada" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sering Sendawa" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Diare" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Turunnya Berat Badan" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pendarahan" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Keluarnya BAB Warna Hitam Pekat" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Keluhan pada esofagus(Kerongkongan)" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rasa Nyeri Terbakar Pada Tulang Dada" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mulut Terasa Asam dan Pahit" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rasa Ada Makanan atau Minuman Balik ke Mulut" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Batuk Menahun" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Serak" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sakit Tenggorokan" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asma" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Demam Ringan atau Meriang" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kejang Perut" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nyeri Pada Uluh Hati" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nyeri Pada Tukak Usus Dua Belas Jari" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sering Dehidrasi" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mules" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kembung Pada Perut" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sembelit" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bab Cair" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cegukan" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sulit Menelan Makanan" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mudah Kenyang" />
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Anoreksia(Takut gemuk)" />
+
+        <CheckBox
+            android:onClick="onCheckboxClicked"
+            android:id="@+id/checkBox34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perut Terasa Panas atau Tidak Nyaman" />
+
+        <Button
+            android:id="@+id/btnDiagnosa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mulai Diagnosa"
+            />
+        <TextView
+            android:id="@+id/hasil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             />
+
+
+    </LinearLayout>
+</ScrollView>

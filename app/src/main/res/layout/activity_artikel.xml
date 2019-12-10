@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Artikel"
+    android:layout_marginHorizontal="30dp"
+    style="@style/Theme.AppCompat">
+
+    <TextView
+        style="@style/TextAppearance.AppCompat.Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/artikel"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/artikel_subtitle"
+        android:layout_marginBottom="30dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stomachartikel1"
+                style="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="@dimen/article_title"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:src="@drawable/stomachartikelk"
+                android:layout_marginVertical="@dimen/image_margin"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/artikel1" />
+
+            <TextView
+                android:id="@+id/artikel1click"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/link"
+                android:layout_marginBottom="20dp"
+                android:onClick="webArtikel1"
+                style="@style/linkText"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stomachartikel2"
+                style="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="@dimen/article_title"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:src="@drawable/stomachartikel2"
+                android:layout_marginVertical="@dimen/image_margin"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/artikel2"/>
+
+            <TextView
+                android:id="@+id/artikel2click"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/link"
+                android:layout_marginBottom="20dp"
+                android:onClick="webArtikel2"
+                style="@style/linkText"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stomachartikel3"
+                style="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="@dimen/article_title"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:src="@drawable/stomachartikel3"
+                android:layout_marginVertical="@dimen/image_margin"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/artikel3"/>
+
+            <TextView
+                android:id="@+id/artikel3click"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/link"
+                android:layout_marginBottom="20dp"
+                android:onClick="webArtikel3"
+                style="@style/linkText"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/stomachartikel4"
+                style="@style/TextAppearance.AppCompat.Headline"
+                android:textSize="@dimen/article_title"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:src="@drawable/stomachartikel4"
+                android:layout_marginVertical="@dimen/image_margin"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/artikel4"/>
+
+            <TextView
+                android:id="@+id/artikel4click"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/link"
+                android:layout_marginBottom="20dp"
+                android:onClick="webArtikel4"
+                style="@style/linkText"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>
+

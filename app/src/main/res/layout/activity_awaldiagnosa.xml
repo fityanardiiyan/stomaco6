@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List gejala penyakit lambung" />
+
+    <TextView
+        android:id="@+id/listgejala1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gejala 1" />
+    <TextView
+        android:id="@+id/listgejala2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gejala 2" />
+    <TextView
+        android:id="@+id/listgejala3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gejala 3" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="launchKonsultasi"
+        android:text="Button" />
+
+
+</LinearLayout>

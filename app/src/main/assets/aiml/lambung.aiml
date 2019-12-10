@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+   
+    <category>
+        <pattern>dp</pattern>
+            <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </template>
+    </category>
+<!-->  Maag  <-->
+
+    <category>
+        <pattern>1</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </that>
+    <template>Gejala Penyakit Maag adalah Nyeri pada Daerah Lambung Lambung terasa penuh Lambung
+dan Perut kembung Nafsu makan berkurang Mual atau Muntah Nyeri Ulu hati Mudah Kenyang
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit Maag adalah Nyeri pada Daerah Lambung Lambung terasa penuh Lambung
+dan Perut kembung Nafsu makan berkurang Mual atau Muntah Nyeri Ulu hati Mudah Kenyang
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </that>
+    <template>Pengobatan Maag
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat H2 Blocker
+Contohnya ranitidin cimetidine dan famotidine
+3 Meminum Obat Penghambat Pompa Proton
+Contohnya omeprazole lansoprazole esomeprazole rabeprazole dan pantoprazole
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan Maag
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat H2 Blocker
+Contohnya ranitidin cimetidine dan famotidine
+3 Meminum Obat Penghambat Pompa Proton
+Contohnya omeprazole lansoprazole esomeprazole rabeprazole dan pantoprazole
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </that>
+    <template>Cara Pencegahan Maag
+1 Menghindari konsumsi alkohol
+2 Menghindari makanan pedas yang digoreng
+berlemak dan asam atau bercuka
+3 Makan dalam porsi kecil tapi sering tidak
+disarankan langsung makan besar 3 kali sehari
+4 Lakukan hal-hal yang menenangkan untuk
+mengurangi stres seperti yoga atau meditasi
+5 Menghindari obat obatan yang dapat mengiritasi
+lambung seperti NSAID aspirin atau kortikosteroid
+6 Makan yang rendah serat untuk sementara waktu
+agar lambung tidak bekerja terlalu keras
+7 Boleh juga makan daging tanpa lemak seperti
+dada ayam atau kalkun sebagai lauk makan nasi
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Cara Pencegahan Maag
+1 Menghindari konsumsi alkohol
+2 Menghindari makanan pedas yang digoreng
+berlemak dan asam atau bercuka
+3 Makan dalam porsi kecil tapi sering tidak
+disarankan langsung makan besar 3 kali sehari
+4 Lakukan hal-hal yang menenangkan untuk
+mengurangi stres seperti yoga atau meditasi
+5 Menghindari obat obatan yang dapat mengiritasi
+lambung seperti NSAID aspirin atau kortikosteroid
+6 Makan yang rendah serat untuk sementara waktu
+agar lambung tidak bekerja terlalu keras
+7 Boleh juga makan daging tanpa lemak seperti
+dada ayam atau kalkun sebagai lauk makan nasi
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Maag
+B Pengobatan Maag
+C Pencegahan Maag
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+<!-->  Dispepsia  <-->
+
+    <category>
+        <pattern>2</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </that>
+    <template>Gejala Penyakit Dispepsia adalah Nyeri pada Daerah Lambung Lambung terasa penuh
+Lambung dan Perut kembung Nafsu makan berkurang Mual atau Muntah Nyeri pada Perut dan Ulu hati Sering Sendawa Diare Meriang
+Sembelit Sulit menelan Mudah Kenyang Perut Panas atau tidak nyaman
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit Dispepsia adalah Nyeri pada Daerah Lambung Lambung terasa penuh
+Lambung dan Perut kembung Nafsu makan berkurang Mual atau Muntah Nyeri pada Perut dan Ulu hati Sering Sendawa Diare Meriang
+Sembelit Sulit menelan Mudah Kenyang Perut Panas atau tidak nyaman
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </that>
+    <template>Pengobatan Dispepsia
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat Proton Pump Inhibitors PPI
+Contohnya omeprazole lansoprazole esomeprazole rabeprazole dan pantoprazole
+3 Meminum Obat H-2 receptor antagonists H2RAs
+4 Meminum Obat Prokinetik
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan Dispepsia
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat Proton Pump Inhibitors PPI
+Contohnya omeprazole lansoprazole esomeprazole rabeprazole dan pantoprazole
+3 Meminum Obat H-2 receptor antagonists H2RAs
+4 Meminum Obat Prokinetik
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </that>
+    <template>Pencegahan Dispepsia
+1 Makan dengan porsi kecil tetapi sering
+Makanan harus dikunyah perlahan sebelum ditelan
+2 Hindari hal hal yang bisa memicu dispepsia
+Contohnya makanan pedas dan berlemak atau minuman bersoda alkohol atau yang mengandung kafein
+3 Berhenti atau tidak merokok
+4 Menjaga berat badan agar tetap ideal
+5 Olahraga secara teratur
+Olahraga yang teratur dapat membantu menghilangkan berat badan berlebih dan menjaga agar berat badan tetap ideal
+6 Mengatasi stres dan rasa cemas
+Cara ini bisa dilakukan dengan olahraga seperti yoga hingga memastikan tercukupinya waktu tidur
+7 Ganti obat obatan yang bisa mengiritasi lambung
+Namun jika tidak ada pastikan bahwa konsumsi obat selalu dilakukan tidak dalam keadaan perut kosong
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pencegahan Dispepsia
+1 Makan dengan porsi kecil tetapi sering
+Makanan harus dikunyah perlahan sebelum ditelan
+2 Hindari hal hal yang bisa memicu dispepsia
+Contohnya makanan pedas dan berlemak atau minuman bersoda alkohol atau yang mengandung kafein
+3 Berhenti atau tidak merokok
+4 Menjaga berat badan agar tetap ideal
+5 Olahraga secara teratur
+Olahraga yang teratur dapat membantu menghilangkan berat badan berlebih dan menjaga agar berat badan tetap ideal
+6 Mengatasi stres dan rasa cemas
+Cara ini bisa dilakukan dengan olahraga seperti yoga hingga memastikan tercukupinya waktu tidur
+7 Ganti obat obatan yang bisa mengiritasi lambung
+Namun jika tidak ada pastikan bahwa konsumsi obat selalu dilakukan tidak dalam keadaan perut kosong
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Dispepsia
+B Pengobatan Dispepsia
+C Pencegahan Dispepsia
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+<!-->  Kanker Lambung  <-->
+
+    <category>
+        <pattern>3</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </that>
+    <template>Gejala Penyakit Kanker Lambung adalah Nyeri pada Daerah Lambung
+Lambung terasa penuh Lambung dan Perut kembung Nafsu makan berkurang
+Mual atau Muntah Nyeri Perut Turunnya berat badan Pendarahan BAB berwarna hitam
+Meriang Kejang Perut
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit Kanker Lambung adalah Nyeri pada Daerah Lambung
+Lambung terasa penuh Lambung dan Perut kembung Nafsu makan berkurang
+Mual atau Muntah Nyeri Perut Turunnya berat badan Pendarahan BAB berwarna hitam
+Meriang Kejang Perut
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </that>
+    <template>Pengobatan Kanker Lambung
+1 Operasi
+Operasi dapat dilakukan dengan bantuan gastroskopi atau dengan metode gastrektomi
+2 Radioterapi
+Alat yang dipasang di kulit dekat lambung
+pasien biasa disebut radiasi internal atau
+menggunakan alat khusus radiasi di RS
+biasa disebut radiasi eksternal
+3 Kemoterapi
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan Kanker Lambung
+1 Operasi
+Operasi dapat dilakukan dengan bantuan gastroskopi atau dengan metode gastrektomi
+2 Radioterapi
+Alat yang dipasang di kulit dekat lambung
+pasien biasa disebut radiasi internal atau
+menggunakan alat khusus radiasi di RS
+biasa disebut radiasi eksternal
+3 Kemoterapi
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </that>
+    <template>Pencegahan Kanker Lambung
+1 Menghentikan atau menjauhi kebiasaan merokok
+2 Menerapkan pola makan sehat
+misalnya mengonsumsi makanan kaya serat
+serta mengurangi makanan asin dan makanan olahan
+3 Menjaga berat badan ideal
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pencegahan Kanker Lambung
+1 Menghentikan atau menjauhi kebiasaan merokok
+2 Menerapkan pola makan sehat
+misalnya mengonsumsi makanan kaya serat
+serta mengurangi makanan asin dan makanan olahan
+3 Menjaga berat badan ideal
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Kanker Lambung
+B Pengobatan Kanker Lambung
+C Pencegahan Kanker Lambung
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+
+<!-->  GERD  <-->
+
+    <category>
+        <pattern>4</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </that>
+    <template>Gejala Penyakit GERD adalah Nyeri pada
+Daerah Lambung Lambung dan Perut kembung
+Nafsu makan berkurang Mual atau Muntah
+Dada Terasa Nyeri Kerongkongan Sakit
+Tulang dada seperti terbakar Mulut Pahit
+dan Asam Perasaan ingin muntah Batuk Menahun
+Serak Tenggorokan Terasa Sakit Asma Meriang
+Kejang Perut Cegukan Sulit menelan
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit GERD adalah Nyeri pada
+Daerah Lambung Lambung dan Perut kembung
+Nafsu makan berkurang Mual atau Muntah
+Dada Terasa Nyeri Kerongkongan Sakit
+Tulang dada seperti terbakar Mulut Pahit
+dan Asam Perasaan ingin muntah Batuk Menahun
+Serak Tenggorokan Terasa Sakit Asma Meriang
+Kejang Perut Cegukan Sulit menelan
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </that>
+    <template>Pengobatan GERD
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat H2 Receptor Blocker
+Contohnya cimetidine famotidine nizatidine dan ranitidine
+3 Meminum Obat Penguat Sfingter
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan GERD
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat H2 Receptor Blocker
+Contohnya cimetidine famotidine nizatidine dan ranitidine
+3 Meminum Obat Penguat Sfingter
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </that>
+    <template>Pencegahan GERD
+1 Berat Badan Ideal
+2 Hindari Pakaian ketat
+3 Hindari makanan dan minuman Pemicu
+Contohnya Lemak atau makanan yang digoreng
+alkohol bawang putih dan merah kafein
+4 Makan Porsi Kecil
+5 Jangan Berbaring Setelah Makan
+Tunggu setidaknya 3 jam setelah makan sebelum berbaring atau tidur
+6 Jangan merokok
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pencegahan GERD
+1 Berat Badan Ideal
+2 Hindari Pakaian ketat
+3 Hindari makanan dan minuman Pemicu
+Contohnya Lemak atau makanan yang digoreng
+alkohol bawang putih dan merah kafein
+4 Makan Porsi Kecil
+5 Jangan Berbaring Setelah Makan
+Tunggu setidaknya 3 jam setelah makan sebelum berbaring atau tidur
+6 Jangan merokok
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala GERD
+B Pengobatan GERD
+C Pencegahan GERD
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+<!-->  Gastroenteritis  <-->
+
+    <category>
+        <pattern>5</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </that>
+    <template>Gejala Penyakit Gastroenteritis adalah Nyeri
+pada Daerah Lambung Lambung dan Perut kembung
+Mual atau Muntah Nyeri Perut Diare Perasaan Ingin
+Muntah Meriang Kejang Perut Sering Dehidrasi Mules
+BAB Cair Mudah Kenyang
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit Gastroenteritis adalah Nyeri
+pada Daerah Lambung Lambung dan Perut kembung
+Mual atau Muntah Nyeri Perut Diare Perasaan Ingin
+Muntah Meriang Kejang Perut Sering Dehidrasi Mules
+BAB Cair Mudah Kenyang
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </that>
+    <template>Pengobatan Gastroenteritis
+1 Pemberian oralit
+2 Pemberian zinc selama 10 hari
+3 Melanjutkan pemberian ASI dan makanan
+4 Pemberian antibiotik tertentu sesuai indikasi atau manfaat obat
+Pasien yang menderita penyakit ini sebaiknya dirawat di RS
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan Gastroenteritis
+1 Pemberian oralit
+2 Pemberian zinc selama 10 hari
+3 Melanjutkan pemberian ASI dan makanan
+4 Pemberian antibiotik tertentu sesuai indikasi atau manfaat obat
+Pasien yang menderita penyakit ini sebaiknya dirawat di RS
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </that>
+    <template>Pencegahan Gastroenteritis
+1 Upayakan untuk meminum lebih banyak cairan
+2 Mengonsumsi makanan dalam jumlah sedikit dan mudah dicerna
+3 Menggunakan lebih banyak waktu untuk beristirahat
+4 Konsumsi minuman berenergi
+5 Berikan cairan pada bayi yang sakit 15 sampai 20 menit setelah muntah atau diare
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pencegahan Gastroenteritis
+1 Upayakan untuk meminum lebih banyak cairan
+2 Mengonsumsi makanan dalam jumlah sedikit dan mudah dicerna
+3 Menggunakan lebih banyak waktu untuk beristirahat
+4 Konsumsi minuman berenergi
+5 Berikan cairan pada bayi yang sakit 15 sampai 20 menit setelah muntah atau diare
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroenteritis
+B Pengobatan Gastroenteritis
+C Pencegahan Gastroenteritis
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+<!-->  Gastroparesis  <-->
+
+    <category>
+        <pattern>6</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </that>
+    <template>Gejala Penyakit Gastroparesis adalah Nafsu
+makan berkurang Mual atau Muntah Nyeri Perut
+Berat Badan Turun Perasaan ingin Muntah
+Kejang Perut Mules Perut Kembung Perasaan Takut Gemuk
+Mudah Kenyang Perut terasa Tidak nyaman atau panas
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit Gastroparesis adalah Nafsu
+makan berkurang Mual atau Muntah Nyeri Perut
+Berat Badan Turun Perasaan ingin Muntah
+Kejang Perut Mules Perut Kembung Perasaan Takut Gemuk
+Mudah Kenyang Perut terasa Tidak nyaman atau panas
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </that>
+    <template>Pengobatan Gastroparesis
+1 Meminum Obat Metoclopramide atau domperidone
+2 Meminum Obat antiemetik
+Contoh obatnya seperti ondansetron
+3 Meminum Obat pereda nyeri
+4 Operasi
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan Gastroparesis
+1 Meminum Obat Metoclopramide atau domperidone
+2 Meminum Obat antiemetik
+Contoh obatnya seperti ondansetron
+3 Meminum Obat pereda nyeri
+4 Operasi
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </that>
+    <template>Pencegahan Gastroparesis
+1 Makan empat hingga enam kali per hari
+2 Batasi minuman beralkohol dan berkarbonasi
+3 Batasi konsumsi makanan yang sulit di cerna
+4 Makan sayur dan buah yang dimasak dengan baik untuk menurunkan jumlah serat yang dikandungnya
+5 Makan makanan rendah lemak
+6 Hindari makanan yang memiliki banyak serat
+seperti brokoli dan jeruk
+7 Hindari berbaring sesaat setelah makan
+8 Ganti makanan padat dengan bubur atau makanan yang lunak
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pencegahan Gastroparesis
+1 Makan empat hingga enam kali per hari
+2 Batasi minuman beralkohol dan berkarbonasi
+3 Batasi konsumsi makanan yang sulit di cerna
+4 Makan sayur dan buah yang dimasak dengan baik untuk menurunkan jumlah serat yang dikandungnya
+5 Makan makanan rendah lemak
+6 Hindari makanan yang memiliki banyak serat
+seperti brokoli dan jeruk
+7 Hindari berbaring sesaat setelah makan
+8 Ganti makanan padat dengan bubur atau makanan yang lunak
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Gastroparesis
+B Pengobatan Gastroparesis
+C Pencegahan Gastroparesis
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+<!-->  Tukak Lambung  <-->
+
+    <category>
+        <pattern>7</pattern>
+            <that>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+            </that>
+        <template>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+        </template>
+    </category>
+
+    <category>
+    <pattern>A</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </that>
+    <template>Gejala Penyakit Tukak Lambung adalah Nyeri
+pada Daerah Lambung Nafsu makan berkurang
+Mual atau Muntah BAB berwarna hitam
+Nyeri Ulu hati dan Usus Dua Belas Jari
+Sering Dehidrasi Mudah Kenyang
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Gejala Penyakit Tukak Lambung adalah Nyeri
+pada Daerah Lambung Nafsu makan berkurang
+Mual atau Muntah BAB berwarna hitam
+Nyeri Ulu hati dan Usus Dua Belas Jari
+Sering Dehidrasi Mudah Kenyang
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>B</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </that>
+    <template>Pengobatan Tukak Lambung
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat antagonist reseptor H2
+Contohnya ranitidine famotidinie dan nizatidine
+3 Meminum Obat proton pump inhibitor
+Contohnya omeprazole lansoprazole esomeprazole rabeprazole dan pantoprazole
+4 Antibiotik
+Contohnya amoxicillin dan clarithromycin
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pengobatan Tukak Lambung
+1 Meminum Obat Antasida
+Contohnya Promag Mylanta
+2 Meminum Obat antagonist reseptor H2
+Contohnya ranitidine famotidinie dan nizatidine
+3 Meminum Obat proton pump inhibitor
+Contohnya omeprazole lansoprazole esomeprazole rabeprazole dan pantoprazole
+4 Antibiotik
+Contohnya amoxicillin dan clarithromycin
+Minumlah Obat tersebut dengan resep Dokter
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>C</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </that>
+    <template>Pencegahan Tukak Lambung
+1 Menjaga kebersihan
+misalnya sering mencuci tangan dan makan makanan yang benar-benar matang
+2 Berhati-hati dalam penggunaan obat anti inflamasi non-steroid agar tidak berlebihan
+3 Mengurangi atau berhenti merokok
+4 Menghindari konsumsi minuman beralkohol
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Pencegahan Tukak Lambung
+1 Menjaga kebersihan
+misalnya sering mencuci tangan dan makan makanan yang benar-benar matang
+2 Berhati-hati dalam penggunaan obat anti inflamasi non-steroid agar tidak berlebihan
+3 Mengurangi atau berhenti merokok
+4 Menghindari konsumsi minuman beralkohol
+D Kembali
+    </that>
+    <template>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </template>
+    </category>
+
+    <category>
+    <pattern>D</pattern>
+    <that>Silahkan Pilih Daftar Informasi
+A Gejala Tukak Lambung
+B Pengobatan Tukak Lambung
+C Pencegahan Tukak Lambung
+D Kembali
+    </that>
+    <template>Daftar Penyakit
+1 Maag
+2 Dispepsia
+3 Kanker Lambung
+4 GERD
+5 Gastroenteritis
+6 Gastroparesis
+7 Tukak Lambung
+    </template>
+    </category>
+
+    <category>
+    <pattern>bn</pattern>
+    <template>bismillah yaaaa Allah
+    </template>
+    </category>
+
+</aiml>
